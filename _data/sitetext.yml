@@ -46,7 +46,7 @@ en: &DEFAULT_EN
     events:
       - title: "全栈开发者"
         year: "2020-2023"
-        desc: "开发多个项目，写代码二十万行!"
+        desc: "开发多个项目，写代码几十万行!"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "系统开发工程师"

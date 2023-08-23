@@ -2,9 +2,12 @@
 title: 项目介绍
 subtitle: 公交候车厅公交电子站牌.
 type: 1
-image: assets/img/portfolio/bus.png
+image: assets/img/portfolio/bijie2.jpg
 video: 
 alt: 智能公交
+
+
+
 
 caption:
   title: 项目

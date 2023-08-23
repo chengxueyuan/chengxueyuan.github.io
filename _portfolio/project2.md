@@ -1,18 +1,18 @@
 ---
 title: 项目介绍
-subtitle: 公交导乘屏.
-type: 2
-image: assets/img/portfolio/bus.png
-video: assets/img/portfolio/announce.mp4
+subtitle: LED电子站牌.
+type: 1
+image: assets/img/portfolio/led.jpg
+video: 
 alt: 智能公交
 
 caption:
   title: 项目
-  subtitle: 公交导乘屏
-  thumbnail: assets/img/portfolio/announce.png
+  subtitle: LED电子站牌系统
+  thumbnail: assets/img/portfolio/LED_D.png
 ---
 
-智能公交电导乘系统
+智能公交电子站牌终端LED屏幕界面
 
 
 {:.list-inline}
